@@ -30,7 +30,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'assets/images/cioran.jpg': 'center'
+							'assets/images/cioran.jpg': 'center',
+						//	'assets/images/bg02.jpg': 'center',
+						//	'assets/images/bg03.jpg': 'center'
 						},
 
 					// Delay.
