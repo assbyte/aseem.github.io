@@ -875,7 +875,7 @@ button,
     #footer {
       bottom: 1.25em;
       left: 1.25em; } }
-  @media screen and (max-height: 0px) {
+  @media screen and (max-height: 469px) {
     #footer {
       bottom: auto;
       left: auto;
